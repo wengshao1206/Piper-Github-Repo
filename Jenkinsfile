@@ -1,7 +1,7 @@
 pipeline {
   environment {
-    registry = "wengshao1206/Piper-Github-Repo"
-    registryCredential = 'Oahsgnew931206'
+    registry = "wengshao1206/piper-github-repo"
+    registryCredential = 'dockerhub'
   }
   agent any
   stages {
