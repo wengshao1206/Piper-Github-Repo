@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    registry = "wengshao1206/photo-album"
+    registry = "wengshao1206/Piper-Github-Repo"
     registryCredential = 'Oahsgnew931206'
   }
   agent any
